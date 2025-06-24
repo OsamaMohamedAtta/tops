@@ -4,9 +4,9 @@
   "display": "standalone",
   "scope": "/",
   "start_url": "/",
-  "description": "PracticePapers Educational Platform Empower your academics journey with instant feedback on your solutions.",
-  "name": "PracticePapers",
-  "short_name": "PracticePapers",
+  "description": "TopSoroban Educational Platform Empower your academics journey with instant feedback on your solutions.",
+  "name": "TopSoroban",
+  "short_name": "TopSoroban",
   "icons": [
     {
       "src": "/icon-192x192.png",
